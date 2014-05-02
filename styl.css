@@ -136,7 +136,9 @@ div.cara {
     height: 75px;
     background-color: #fff;
 }
-
+#header_title {
+  padding-right:25px;
+}
 #header_in {
     width: 960px;
     padding: 0px 10px 0 10px;
@@ -150,8 +152,6 @@ div.cara {
     letter-spacing: 1px;
     float: left;
     padding-top: 25px;
-    padding-right: 25px;
-    
 }
 
 #header_in h1 a {
